@@ -18,6 +18,6 @@ Este es el portafolio personal de Brayan Camilo Fierro Andrade, Ingeniero de Sof
 ## Contacto
 
 - **Correo:** fierrocamilo31@gmail.com
-- **WhatsApp:** [+57 3135829031](https://wa.me/573135829031)
+- **WhatsApp:** [+57 3135829032](https://wa.me/573135829031)
 - **LinkedIn:** [camilo-fierro](https://www.linkedin.com/in/camilo-fierro/)
 - **GitHub:** [fierrocamilo31-dev](https://github.com/fierrocamilo31-dev)
